@@ -1,2 +1,2 @@
 # Save the Farm! PHP
- interactive fiction game in PHP
+ Solution to the Codecademy project "Save the Farm" - interactive fiction game in PHP. 
